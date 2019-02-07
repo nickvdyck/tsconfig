@@ -1,0 +1,19 @@
+{
+  "name": "@nvd/tsconfig",
+  "version": "0.1.0",
+  "description": "Shared TypeScript config for my projects",
+  "license": "MIT",
+  "author": "Nick Van Dyck",
+  "homepage": "https://github.com/nickvdyck/tsconfig#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nickvdyck/tsconfig.git"
+  },
+  "files": [
+    "tsconfig.json"
+  ],
+  "keywords": [
+    "tsconfig",
+    "typescript"
+  ]
+}
